@@ -441,6 +441,9 @@ nav ul li a.active {
     width: 45%;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
+.white-container label{
+	font-size: 10px;
+}
 
 form {
     text-align: left;
@@ -453,7 +456,7 @@ form {
 }
 
 .form-row input {
-    width: 48%;
+    width: 40%;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 4px;
